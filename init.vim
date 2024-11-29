@@ -1,0 +1,7 @@
+lua require('basic')
+lua require('plugins')
+lua require('plugin-config/nvim-tree')
+lua require('plugin-config/nvim-treesitter')
+lua require('plugin-config/onedark')
+lua require('plugin-config/lualine')
+lua require('plugin-config/gitsigns')
